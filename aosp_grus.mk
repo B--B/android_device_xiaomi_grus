@@ -14,6 +14,9 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 # Inherit from grus device
 $(call inherit-product, device/xiaomi/grus/device.mk)
 
+# Boot animation resolution
+TARGET_BOOT_ANIMATION_RES := 1080
+
 PRODUCT_NAME := aosp_grus
 PRODUCT_DEVICE := grus
 PRODUCT_MANUFACTURER := Xiaomi
