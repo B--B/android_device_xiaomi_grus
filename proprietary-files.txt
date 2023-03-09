@@ -51,7 +51,7 @@ vendor/lib/libssrec.so
 
 # Camera
 vendor/lib/hw/camera.qcom.so
-vendor/lib/hw/com.qti.chi.override.so
+vendor/lib/hw/com.qti.chi.override.so|7e8a003afb8f61846008eb72d917ec74b293267e
 vendor/lib/libFaceGrade.so
 vendor/lib/libSNPE.so
 vendor/lib/libVDClearShot.so
