@@ -236,6 +236,10 @@ vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc
 vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so
 vendor/lib64/libqcbor.so
 
+# Goodix FW
+system/etc/firmware/goodix_gt9886_cfg_f2.bin
+system/etc/firmware/goodix_gt9886_fw_f2.bin
+
 # Keymaster
 vendor/bin/hw/android.hardware.keymaster@4.0-service-qti
 vendor/etc/init/android.hardware.keymaster@4.0-service-qti.rc
