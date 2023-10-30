@@ -2804,11 +2804,11 @@
     </path>
 
     <path name="hph-highquality-mode">
-        <ctl name="RX HPH Mode" value="CLS_AB" />
+        <ctl name="RX HPH Mode" value="HD2" />
     </path>
 
     <path name="hph-lowpower-mode">
-        <ctl name="RX HPH Mode" value="CLS_H_LOHIFI" />
+        <ctl name="RX HPH Mode" value="NORMAL" />
     </path>
 
     <path name="headset-mic">
@@ -3083,7 +3083,7 @@
 
     <path name="dmic-broadside">
         <path name="speaker-dmic-broadside" />
-        <ctl name="IIR1 INP1 MUX" value="DEC7" />
+        <ctl name="IIR1 INP1 MUX" value="DEC1" />
     </path>
 
     <path name="voice-speaker-dmic-broadside">
